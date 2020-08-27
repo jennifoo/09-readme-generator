@@ -11,12 +11,15 @@ This project consists of creating a command-line application that dynamically ge
 node index.js
 ```
 
+### Screenshot of the Readme Generator on Node:
+
 <img src="./images/readme-program.png" alt="Readme Generator in action with node">
 
-### See a demo of my Readme Generator at any of the video links:
+### See a demo of my Readme Generator at any of the 2 video links:
 
-* Video link (Vimeo): https://vimeo.com/452335805 (choose highest quality setting)
-* Link to Video on Github: https://github.com/jennifoo/09-readme-generator/blob/master/8-26-2020_Readme_Generator_sm.mov
+* [Vimeo Link:](https://vimeo.com/452335805) – choose highest quality setting
+* [Link to Video on Github:](https://github.com/jennifoo/09-readme-generator/blob/master/8-26-2020_Readme_Generator_sm.mov)
+* You may also view a prototype of the generated Readme [here:](https://github.com/jennifoo/09-readme-generator/tree/master/Readme%20Prototype)
 
 ## User Story
 
