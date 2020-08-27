@@ -1,5 +1,10 @@
-# Project Title
+
+
+# Readme Generator
+
 ## Description
+
+Created a readme generator using inquirer module to capture user input to place into a readme file with proper formatting.
 
 ## Table of Contents
 * [Installation](#installation)
@@ -9,33 +14,29 @@
 * [Tests](#tests)
 * [Questions](#questions)
 
-
 ## Installation
-```
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris consequat eros diam. Integer porttitor velit in quam blandit, in tincidunt turpis consequat. Mauris ac aliquet mi.
-```
+
+run index.js
 
 ## Usage
-```
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris consequat eros diam. Integer porttitor velit in quam blandit.
-```
+
+for public use
 
 ## License
-```
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris consequat eros diam. Integer porttitor velit in quam blandit.
-```
+
+This project is protect under the following license: Apache 2
+
+<img src="https://img.shields.io/badge/license-Apache%202-blue" alt="license badge">
 
 ## Contributing
-```
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris consequat eros diam. Integer porttitor velit in quam blandit.
-```
+
+Individual project
 
 ## Tests
-```
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris consequat eros diam. Integer porttitor velit in quam blandit.
-```
+
+None
 
 ## Questions
-```
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris consequat eros diam. Integer porttitor velit in quam blandit.
-```
+
+If you have any questions you may email me at: [GitHub](jwong.uh@gmail.com). You can also checkout my GitHub Profile at: https://github.com/jennifoo.
+
