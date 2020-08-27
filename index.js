@@ -63,7 +63,6 @@ inquirer.prompt([
     console.log(licenseBadge);
   }
   username = `https://github.com/${username}`
-  email = `[${email}](mailto:${email}?subject="Inquiry from Readme Generator")`
 
   let ticks = "```"
 const content =`
