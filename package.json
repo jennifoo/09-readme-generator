@@ -1,25 +1,14 @@
 {
-  "name": "readme-generator",
+  "name": "static-site",
   "version": "1.0.0",
-  "description": "This program uses the inquirer module to generate prompts to capture user input. Then outputs a readme with information from user.",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "none"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jennifoo/09-readme-generator.git"
-  },
-  "keywords": [
-    "read",
-    "me",
-    "generator",
-    "readme"
-  ],
-  "author": "Jennifer Wong",
-  "license": "Apache-2.0",
-  "bugs": {
-    "url": "https://github.com/jennifoo/09-readme-generator/issues"
-  },
-  "homepage": "https://github.com/jennifoo/09-readme-generator#readme"
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.3.1"
+  }
 }
