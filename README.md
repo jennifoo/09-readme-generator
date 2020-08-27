@@ -1,10 +1,10 @@
 
 
-# Readme Generator
+# Read Me Generator
 
 ## Description
 
-Generates a readme
+Using the Inquirer module to create prompts that capture user input to generate a formatted readme to save the user time.
 
 ## Table of Contents
 * [Installation](#installation)
@@ -16,7 +16,7 @@ Generates a readme
 
 ## Installation
 
-run node index.js
+run index.js
 
 ## Usage
 
@@ -34,7 +34,7 @@ None
 
 ## Tests
 
-None
+NOne
 
 ## Questions
 
