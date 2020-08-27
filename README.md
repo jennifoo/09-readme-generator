@@ -10,6 +10,9 @@ This project consists of creating a command-line application that dynamically ge
 ```
 node index.js
 ```
+
+<img src="./images/readme-program.png" alt="Readme Generator in action with node">
+
 ### See a demo of my Readme Generator at any of the video links:
 
 * Video link (Vimeo): https://vimeo.com/452335805 (choose highest quality setting)
