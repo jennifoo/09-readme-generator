@@ -17,8 +17,8 @@ node index.js
 
 ### See a demo of my Readme Generator at any of the 2 video links:
 
-* [Vimeo Link:](https://vimeo.com/452335805) – choose highest quality setting
-* [Link to Video on Github:](https://github.com/jennifoo/09-readme-generator/blob/master/8-26-2020_Readme_Generator_sm.mov)
+* [Vimeo Link](https://vimeo.com/452335805) – choose highest quality setting
+* [Link to Video on Github](https://github.com/jennifoo/09-readme-generator/blob/master/8-26-2020_Readme_Generator_sm.mov)
 * You may also view a prototype of the generated Readme [here:](https://github.com/jennifoo/09-readme-generator/tree/master/Readme%20Prototype)
 
 ## User Story
