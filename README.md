@@ -1,10 +1,10 @@
 
 
-# Readme Generator
+# Read Me Generator
 
 ## Description
 
-Created a readme generator using inquirer module to capture user input to place into a readme file with proper formatting.
+Generates a Readme
 
 ## Table of Contents
 * [Installation](#installation)
@@ -16,11 +16,11 @@ Created a readme generator using inquirer module to capture user input to place 
 
 ## Installation
 
-run index.js
+Run node index.js
 
 ## Usage
 
-for public use
+None
 
 ## License
 
@@ -30,7 +30,7 @@ This project is protect under the following license: Apache 2
 
 ## Contributing
 
-Individual project
+None
 
 ## Tests
 
@@ -38,5 +38,5 @@ None
 
 ## Questions
 
-If you have any questions you may email me at: [GitHub](jwong.uh@gmail.com). You can also checkout my GitHub Profile at: https://github.com/jennifoo.
+If you have any questions you may email me at: [jwong.uh@gmail.com](mailto:jwong.uh@gmail.com?subject="Inquiry from Readme Generator"). You can also checkout my GitHub Profile at: https://github.com/jennifoo.
 
