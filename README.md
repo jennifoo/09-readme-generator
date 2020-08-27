@@ -10,9 +10,10 @@ This project consists of creating a command-line application that dynamically ge
 ```
 node index.js
 ```
+See a demo of my Readme Generator at any of the video links:
 
-Video link: https://github.com/jennifoo/09-readme-generator/blob/master/8-26-2020_Readme_Generator_sm.mov
-(It appears at the moment you would need to download the file to view which is 50mb. I will see if I can get this on Vimeo by tommorrow)
+Video link (Vimeo): https://vimeo.com/452335805 (choose highest quality setting)
+Link to Video on Github: https://github.com/jennifoo/09-readme-generator/blob/master/8-26-2020_Readme_Generator_sm.mov
 
 ## User Story
 
@@ -50,7 +51,7 @@ THEN I am taken to the corresponding section of the README
 
 * GitHub repository with a unique name and a README describing project.
 
-* The generated README includes the following sections: 
+* The generated README includes the following sections:
 
   * Title
   * Description
