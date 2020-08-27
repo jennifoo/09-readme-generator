@@ -1,10 +1,10 @@
 
 
-# Read Me Generator
+# Readme Generator
 
 ## Description
 
-Generates a Readme
+Generates a readme
 
 ## Table of Contents
 * [Installation](#installation)
@@ -16,7 +16,7 @@ Generates a Readme
 
 ## Installation
 
-Run node index.js
+run node index.js
 
 ## Usage
 
@@ -38,5 +38,5 @@ None
 
 ## Questions
 
-If you have any questions you may email me at: [jwong.uh@gmail.com](mailto:jwong.uh@gmail.com?subject="Inquiry from Readme Generator"). You can also checkout my GitHub Profile at: https://github.com/jennifoo.
+If you have any questions you may email me at: jwong.uh@gmail.com. You can also checkout my GitHub Profile at: https://github.com/jennifoo.
 
