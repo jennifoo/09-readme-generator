@@ -55,16 +55,11 @@ inquirer.prompt([
 
   let { username, email, title, description, installation, usage, contributing, tests, license } = data;
 
-  // let h2Array = [ description, installation, usage, contributing, tests ]
-  // let h2ArrayFormat = h2Array.map( (h2) => `## ${h2}`)
-
   if (license === "Apache 2"){
     var licenseBadge = `<img src="https://img.shields.io/badge/license-Apache%202-blue" alt="license badge">`
-    console.log(licenseBadge);
   }
   username = `https://github.com/${username}`
 
-  let ticks = "```"
 const content =`
 
 # ${title}
